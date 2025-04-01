@@ -19,7 +19,7 @@ Berfungsi untuk mengatur pertanyaan dan memproses input pemain.
 Fungsi Main
 Menjalankan game dan menampilkan hasil permainan.
 
-5. Penjelasan Code
+4. Penjelasan Code
 * Kelas Question
 Menyimpan informasi pertanyaan, kategori, pilihan jawaban, dan jawaban yang benar.
 * Kelas QuizGame
@@ -29,7 +29,7 @@ Menyimpan informasi pertanyaan, kategori, pilihan jawaban, dan jawaban yang bena
 * Kelas Program
 Menjalankan game dengan membuat objek QuizGame dan memanggil metode Start().
 
-6. Fitur yang Bisa Dikembangkan
+5. Fitur yang Bisa Dikembangkan
 - Menambahkan lebih banyak kategori dan pertanyaan
 - Godot
 - Menyimpan skor tertinggi menggunakan file atau database
