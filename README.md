@@ -31,7 +31,7 @@ Menjalankan game dengan membuat objek QuizGame dan memanggil metode Start().
 
 6. Fitur yang Bisa Dikembangkan
 - Menambahkan lebih banyak kategori dan pertanyaan
-- Membuat GUI dengan Windows Forms atau Unity
+- Godot
 - Menyimpan skor tertinggi menggunakan file atau database
 - Menambahkan mode multiplayer untuk bermain bersama teman
 - Membuat sistem level dengan tingkat kesulitan yang meningkat
