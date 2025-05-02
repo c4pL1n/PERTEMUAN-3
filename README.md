@@ -1,8 +1,8 @@
 1. Konsep Game
 Game ini adalah permainan pilihan ganda di mana pemain akan diberikan pertanyaan dengan beberapa opsi jawaban. Kategori yang digunakan meliputi:
-- Hewan
-- Negara
-- Budaya Asal
+- IPA
+- IPS
+- Pengetahuan Umum
 - Makanan Khas Negara
 - Julukan Negara
 Pemain harus memilih jawaban yang benar dari beberapa pilihan yang disediakan.
