@@ -3,8 +3,8 @@ Game ini adalah permainan pilihan ganda di mana pemain akan diberikan pertanyaan
 - IPA
 - IPS
 - Pengetahuan Umum
-- Makanan Khas Negara
-- Julukan Negara
+- Bahasa Indonesia
+- 
 Pemain harus memilih jawaban yang benar dari beberapa pilihan yang disediakan.
 
 2. Teknologi yang Digunakan
